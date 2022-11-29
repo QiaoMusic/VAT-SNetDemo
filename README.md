@@ -5,18 +5,10 @@
 
 **In addition to the separated audio signals of each method, we provide so-called minus-one audio estimates, which were computed by subtracting the separated audio signals from the mixture audio signals. The minus-one audio estimates were helpful for listeners to check the leakage of the target sources.**
 
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<div class="center">
-
+# <style>
+# .center {width: auto;display: table;margin-left: auto;margin-right: auto;}
+# </style>
+# <div class="center">
 | Miture |                                                              Vocal                                                               | accomponiment |
 |:------:|:--------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
 |  <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>   | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio> |      <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>      |
@@ -30,6 +22,4 @@
 |  <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>      |   <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                               |       <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>        |
 |  <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>      |<audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                                  |     <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>          |
 |   <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>     | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                                 |     <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>          |
-
-</div>
-
+# </div>
