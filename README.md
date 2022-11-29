@@ -15,7 +15,6 @@
 }
 </style>
 
-
 <div class="center">
 
 | Miture |                                                              Vocal                                                               | accomponiment |
@@ -31,7 +30,6 @@
 |  <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>      |   <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                               |       <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>        |
 |  <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>      |<audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                                  |     <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>          |
 |   <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>     | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>                                                                                                                                 |     <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/spk1.wav"></audio>          |
-
 
 </div>
 
