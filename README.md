@@ -1,15 +1,8 @@
-# <center> Demonstration on Music Source Separation Using Multiresolution Deep Layered Analysis (MRDLA)</center>
+# <center> VAT-SNet: A Convolutional Music Separation Network Based on Vocal and Accompaniment Time Domain Features</center>
 
-<center> Qiaoxiaoman</center> 
+<center> Xiaoman Qiao , Min Luo , Fengjing Shao , Yi Sui , Xiaowei Yin and Rencheng Sun </center> 
 
-**In this demo page, we show music source separation results using our proposed MRDLA [1] and conventional time-domain
-audio source separation methods. The mixture and ground truth signals of musical instruments (vocals, bass, drums, and
-other) are from the MUSDB18 dataset [2].**
-
-**In addition to the separated audio signals of each method, we provide so-called minus-one audio estimates, which were
-computed by subtracting the separated audio signals from the mixture audio signals. The minus-one audio estimates were
-helpful for listeners to check the leakage of the target sources.**
-
+#### This page shows the results of using our model VAT-SNet to separate vocal and accompaniment in music. In the following table, the first column is the input mixed music, the second column is the separated vocals, and the third column is the separated accompaniment. All of the following music clips were randomly selected from the 200 music clips in MIR1K that were not used as training. 
 
 
 
