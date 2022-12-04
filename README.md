@@ -7,7 +7,7 @@
 
 
 
-|                 Miture                         |                  Vocal               |                accomponiment                          |
+|                 Mixture                         |                  Vocal               |                Accompaniment                          |
 |:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
 | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_3_03G/amy_3_03.wav"></audio> | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_3_03G/spk1.wav"></audio> | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_3_03G/spk2.wav"></audio> |
 | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_4_03G/amy_4_03.wav"></audio> | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_4_03G/spk1.wav"></audio> | <audio id="audio" controls="" preload="none" style="width: 145px; height: 40px"><source id="mp3" src="./files/amy_4_03G/spk2.wav"></audio> |
